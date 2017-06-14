@@ -2,7 +2,7 @@
 
 ## Summary
 The sample is an custom action only active on multiple selected items.
-This is just a proof of concept, I don't think multishare is viable necessarally
+This is just a proof of concept, I don't think multishare is viable necessarally.
 It uses multiple Office UI Fabric React components:
 - Dialog
 - Peoplepicker
@@ -27,7 +27,7 @@ SPFx Extensions Dev Preview
 
 Solution|Author(s)
 --------|---------
-react-command-share-pnp-js | Simon Ågren ([dizparc AB.](http://www.dizparc.se), [@simondizparc](https://twitter.com/simondizparc) [simonagren](https://github.com/simonagren))
+react-command-share-pnp-js | Simon Ågren ([dizparc AB](http://www.dizparc.se), [@simondizparc](https://twitter.com/simondizparc), [simonagren GitHub](https://github.com/simonagren))
 
 ## Version history
 
